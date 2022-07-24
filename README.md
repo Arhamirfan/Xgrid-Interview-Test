@@ -2,16 +2,16 @@
 
 Flutter design project for Xgrid flutter design interview test.
 
-#Used Packages
+# Used Packages
 - Shared Preference: For storing current theme information and maintain session of it.
 - Provider: For state management
 
-#Evaluation criteria:
+# Evaluation criteria:
 Exact Duplication of design: ✔️
 Cleanliness of code: ✔️
 Reuse and Extensibility: ✔️
 
-#Preview
+# Preview
 
 -Light Theme
 
